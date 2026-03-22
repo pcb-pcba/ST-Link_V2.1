@@ -10,3 +10,7 @@ Small version of ST-Link v2.1<br><br>
   - USB Mass Storage Class (MSC): The device appears as a USB drive on your PC. You can flash a binary file to the microcontroller simply by dragging and dropping it into this "drive".
   - USB Power Management: Supports requesting more than 100 mA from the host PC to power the application board.
   - SWO Support: Includes a Serial Wire Output (SWO) pin for real-time trace debugging, which is often missing on common "dongle" clones of the V2.
+
+`Project/` - Project files
+
+`Gerber/STLinkV2_1_rev1_0.zip` - Gerber files
