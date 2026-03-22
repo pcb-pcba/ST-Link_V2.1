@@ -12,7 +12,7 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
   - SWO Support: Includes a Serial Wire Output (SWO) pin for real-time trace debugging, which is often missing on common "dongle" clones of the V2.
 
 
-- `Draftsman_STLinkV2_1_rev1_0.pdf` - Some useful drawings
-- `Schematic_STLinkV2_1_rev1_0.pdf` - Schematic
-- `Project/` - Project files
-- `Gerber/STLinkV2_1_rev1_0.zip` - Gerber files
+`Draftsman_STLinkV2_1_rev1_0.pdf` - Some useful drawings
+`Schematic_STLinkV2_1_rev1_0.pdf` - Schematic
+`Project/` - Project files
+`Gerber/STLinkV2_1_rev1_0.zip` - Gerber files
